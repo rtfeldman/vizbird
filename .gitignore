@@ -5,3 +5,4 @@ classes
 target
 .lein-deps-sum
 .lein-plugins
+resources/public/javascripts
