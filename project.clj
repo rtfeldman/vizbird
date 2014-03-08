@@ -3,6 +3,7 @@
   :url "https://github.com/rtfeldman/vizbird"
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [org.clojure/java.jdbc "0.3.3"]
+                 [hsqldb/hsqldb "1.8.0.10"]
                  [org.clojure/clojurescript "0.0-2030"]
                  [org.clojure/core.async "0.1.256.0-1bf8cf-alpha"]
                  [compojure "1.1.5"]
